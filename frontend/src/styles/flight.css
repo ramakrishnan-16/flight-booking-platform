@@ -1,0 +1,39 @@
+.hero-section {
+  padding: 80px 0 60px;
+  background: linear-gradient(
+    135deg,
+    #eef5ff,
+    #ffffff
+  );
+}
+
+.hero-content {
+  max-width: 700px;
+  margin-bottom: 40px;
+}
+
+.hero-content h1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.hero-content p {
+  font-size: 1.2rem;
+  color: #6c757d;
+}
+
+.flight-search-card {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow:
+    0 10px 35px rgba(0, 0, 0, 0.08);
+}
+
+.flight-card {
+  border: none;
+  border-radius: 14px;
+  box-shadow:
+    0 5px 20px rgba(0, 0, 0, 0.06);
+}
